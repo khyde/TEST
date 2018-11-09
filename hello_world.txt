@@ -1,7 +1,3 @@
 hello world
-<<<<<<< HEAD
 hello
 goodbye
-=======
-hello2
->>>>>>> 836ff2ae46059b91b88bd0b6dbd6253b497c6834
