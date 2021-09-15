@@ -8,8 +8,11 @@ pro test_git
   
   cmd = "git commit -m 'new test git pro'"
   print, cmd
-  stop
   spawn, cmd
-
+  stop
+  
+  cmd = "git push"
+  spawn, cmd
+  stop
 
 end
