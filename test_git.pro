@@ -2,6 +2,10 @@ pro test_git
 
   cd, '/Users/kimberly.hyde/nadata/IDL_PROJECTS/TEST'
   
+  cmd = "git status"
+  spawn, cmd, log, exit_status=es
+  stop
+  
   cmd = "git add 'test_git.pro'"
   spawn, cmd
   stop
