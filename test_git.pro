@@ -11,6 +11,7 @@ pro test_git
 ; Will want to incorporate into make_program and file_doc
 ; Should add dialog boxes to confirm certain steps and add the commit message if not provided
 ;  
+
   
   
   cd, '/Users/kimberly.hyde/nadata/IDL_PROJECTS/TEST'
