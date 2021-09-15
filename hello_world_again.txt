@@ -2,9 +2,6 @@ Trying again
 Hello world
 Hello
 
-
-
-
 Goodbye
 But wait!
 
