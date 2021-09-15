@@ -14,5 +14,9 @@ pro test_git
   cmd = "git push"
   spawn, cmd
   stop
+  
+  cmd = "get status"
+  spawn, cmd
+  stop
 
 end
