@@ -15,7 +15,7 @@ pro test_git
   spawn, cmd
   stop
   
-  cmd = "get status"
+  cmd = "git status"
   spawn, cmd
   stop
 
